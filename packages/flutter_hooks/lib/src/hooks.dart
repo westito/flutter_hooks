@@ -29,6 +29,7 @@ part 'misc.dart';
 part 'page_controller.dart';
 part 'platform_brightness.dart';
 part 'primitives.dart';
+part 'record_hooks.dart';
 part 'scroll_controller.dart';
 part 'search_controller.dart';
 part 'tab_controller.dart';
